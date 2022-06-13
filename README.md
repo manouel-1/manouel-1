@@ -1,16 +1,25 @@
 ### Hi there 👋 
+### My name is Manouel im mostly a frontend developer but i know and backend
 
-<!--
-**manouel-1/manouel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My github stats
+![Manouel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manouel-1&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Faliactyl**
+
+- 🌱 I’m currently learning **Python.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **At Repositories Page**
+
+- 📫 How to reach me **manouel#1445**
+
+- ⚡ Hobbies **I like playing League of legends and Coding.**
+
+## Views
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=manouel-1">
+</a>
+
