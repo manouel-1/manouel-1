@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Faliactyl**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Python.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manouel#1445**
 
-- ⚡ Hobbies **I like playing League of legends and Coding.**
+- ⚡ Hobbies **I like playing League of legends and Developing.**
 
 ## Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
