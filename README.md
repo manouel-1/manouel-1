@@ -1,14 +1,13 @@
 ### Hi there 👋 
-### My name is Manouel im a developer
 
 ## My github stats
 ![Manouel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manouel-1&show_icons=true&theme=radical)
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Pulsar**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
